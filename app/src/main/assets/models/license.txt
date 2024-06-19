@@ -1,0 +1,8 @@
+Model Information:
+* title:	Realistic Rubik's Cube
+* source:	https://sketchfab.com/3d-models/realistic-rubiks-cube-66b76d1427cb4eaea1c65f5c61d13d52
+* author:	Ryan King Art (https://sketchfab.com/ryankingart)
+
+Model License:
+* license type:	SKETCHFAB Editorial (https://sketchfab.com/licenses)
+* requirements:	Use only in connection with events that are newsworthy or of public interest
